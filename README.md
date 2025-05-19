@@ -6,20 +6,22 @@ A collection of all the professional certifications and bootcamps I’ve complet
 
 ## 🛠 Embedded Systems & Microcontrollers
 
+
+- ✅ **Embedded Systems Essentials with Arm – Professional Certificate**  
+  ![Arm Getting Started](https://github.com/midlaj-kp/My_Certificates/blob/main/Embedded%20Systems%20Essentials%20with%20Arm.png)
+
+  
+- ✅ **Embedded System Essentials with Arm – Getting Started**  
+  ![Arm Getting Started](./Embeddded%20System%20Essentials%20with%20Arm%20Getting%20Started.png)
+  
+
+- ✅ **Embedded Systems Essentials with Arm – Practical Hardware**  
+  ![Arm Getting Started](https://github.com/midlaj-kp/My_Certificates/blob/main/Embedded%20Systems%20Essentials%20with%20Arm%20Get%20Practical%20with%20Hardware.png)
+
+
 - ✅ **45-Day ESP32 Bootcamp**  
   ![45-Day ESP32 Bootcamp Certificate](./45-Day%20ESP32%20Bootcamp.png)
 
-- ✅ **Embedded System Essentials with Arm – Getting Started**  
-  ![Arm Getting Started](./Embeddded%20System%20Essentials%20with%20Arm%20Getting%20Started.png)
-
-- ✅ **Embedded Systems Essentials with Arm – Practical Hardware**  
-  *(Image included in same certificate as others — see above)*
-
-- ✅ **Embedded Systems Essentials with Arm – Essential Concepts**  
-  *(Image included in same certificate as others — see above)*
-
-- ✅ **Embedded Systems Essentials with Arm – Professional Certificate**  
-  *(Image included in same certificate as others — see above)*
 
 - ✅ **Microcontroller Embedded C**  
   ![Microcontroller Embedded C](./Microcontroller%20Embedded%20C.png)
